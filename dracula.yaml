@@ -1,0 +1,16 @@
+metadata:
+  keywords:
+    - 'Dracula theme'
+
+pdf-engine: xelatex
+highlight-style: /full/path/to/dracula.theme
+
+variables:
+  geometry:  margin=1in
+  linkcolor: draculapink
+  filecolor: draculagreen
+  citecolor: draculapurple
+  urlcolor:  draculacyan
+  toccolor:  draculaorange
+  header-includes:
+    - \usepackage{/full/path/to/draculatheme}
