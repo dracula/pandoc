@@ -4,6 +4,13 @@
     "line-number-color": "#6272a4",
     "line-number-background-color": null,
     "text-styles": {
+        "Normal": {
+            "text-color": "#f8f8f2",
+            "background-color": null,
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
         "Other": {
             "text-color": "#f8f8f2",
             "background-color": null,
